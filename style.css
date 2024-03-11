@@ -1,0 +1,128 @@
+#navbarSupportedContent{
+    padding-left: 600px;
+}
+.spaces{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(250, 217, 155);
+    border-radius: 50%;
+}
+.spaces1{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(137, 91, 98);
+}
+.container-fluids{
+    text-align: center;
+    color: white;
+    background-image: url("https://wallup.net/wp-content/uploads/2017/03/28/406799-monochrome-architecture-modern-building-window-clouds-long_exposure-blurred.jpg");
+    background-position: center;
+   width: 100%;
+    height: 500px;  
+}
+.para, para1{
+    padding-top: 12%;
+}
+.two{
+    padding-top: 160px;
+}
+.col{
+    padding-top: 1.5%;
+    height: 50%;
+    width: 50%;
+}
+.card{
+    height: 70%;
+    width: 100%;
+}
+.card-img-top{
+    padding: 50px;
+}
+.color{
+    color: rgb(184, 141, 61);
+}
+
+
+
+
+.container_one{
+    background-color: #0d2436;
+    padding-left: 10px;
+}
+#some{
+    padding-left: 50px;
+}
+.titleofthecard{
+    color: orange;
+}
+.camera_icon{
+    background-color: transparent;
+    text-align: center;
+    padding-top: 80px;
+
+}
+.another{
+    background-color: rgb(167, 160, 160);
+    width: 300px;
+    height: 200px;
+}
+.paragraphcardtext{
+    width: 300px;
+    color: white;
+}
+
+
+.changethecolour{
+    color: rgb(51, 75, 162);
+}
+
+
+
+
+
+
+
+.colour_change{
+    color: blue;
+}
+.changemiddle{
+    text-align: center;
+}
+.change{
+    color: orangered;
+}
+.human{
+    display: inline;
+}
+
+.images{
+    display: inline;
+    height: auto;
+}
+
+
+
+
+
+
+.changethecolourofcard{
+   color: orangered;
+}
+.changetostart{
+   text-align: start;
+}
+.line{
+   padding-left: 10px;
+}
+.straight{
+    display: flex;
+    flex-direction: row;
+}
+.whitecolour{
+    color: black;
+}
+
+/* .container-fluidy{
+    background-image: url("https://tse3.explicit.bing.net/th?id=OIP.zt_Tvjvfamifhq7v0CmuygHaEK&pid=Api&P=0&h=180");
+    width: 100%;
+} */
